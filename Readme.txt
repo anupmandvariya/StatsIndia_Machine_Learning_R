@@ -1,10 +1,12 @@
 Include following codes:
 
-1. Data_Exploration.R
-2. Data_Preperation.R
-3. Regression.R
-4. Classification.R
-5. Clustering.R
-6. Association.R
-7. Text_Mining.R
-8. Time_Series.R
+01. Data_Exploration.R
+02. Data_Preperation.R
+03. Dimensionality_Reduction.R
+04. Regression.R
+05. Classification.R
+06. Clustering.R
+07. Association.R
+08. Text_Mining.R
+09. Time_Series.R
+10. Optimization
